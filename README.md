@@ -1,5 +1,5 @@
 # CodingTests
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiho3898)](https://solved.ac/profile/haroni1)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haroni1)](https://solved.ac/profile/haroni1)
 
 ## 📚 소개
 
