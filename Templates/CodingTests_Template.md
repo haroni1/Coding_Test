@@ -34,9 +34,16 @@
 ## 💻 정답 코드 (C#)
 
 ``` C#
-public class Main {
-    public static void main(String[] args) {
-        
+using System;
+
+namespace HELLOWORLD
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
 }
 ```
